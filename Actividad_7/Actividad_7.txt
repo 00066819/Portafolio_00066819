@@ -1,0 +1,40 @@
+//Nelson Evora 00066819
+
+//1)
+s=initialize
+int variable
+fun()
+if (!empty(s))
+variable=pop(s)
+else 
+La pila está vacía
+if (!empty(s))
+variable=pop(s)
+else 
+La pila sólo tiene un valor
+
+
+//2)
+s=initialize
+int x, y
+fun()
+if (!empty(s))
+x=pop(s)
+else 
+La pila está vacía
+if (!empty(s))
+y=peek(s)
+push(s, x)
+else 
+La pila sólo tiene un valor
+
+//3)
+s=initialize
+int variable
+
+if(!empty)
+while(!empty)
+variable=pop(s)
+
+else
+La pila está vacía
