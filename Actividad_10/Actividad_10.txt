@@ -1,0 +1,12 @@
+Nelson Alexander Evora Díaz 00066819
+
+1) A-B/(C*D$E)
+     A-B/(C*DE$)
+     A-B/(CDE$*)
+     ABCDE$*/-
+     
+2) ((A+B)*C-(D-E))$(F+G)
+     ((AB+)*C-(DE-))$(FG+)
+     ((AB+)*CDE--)$(FG+)
+     (AB+C*DE--)$(FG+)
+     AB+C*DE--FG+$
